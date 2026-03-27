@@ -25,3 +25,4 @@ Open `http://localhost:3000`
 ```bash
 npx vercel
 ```
+thnks for visiting
