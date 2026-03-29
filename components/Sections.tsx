@@ -99,7 +99,7 @@ export function Certificates() {
 
 // ── CONTACT ───────────────────────────────────────────────────────────────────
 const OUTPUT=['> Initializing connection...','> Encrypting payload...','> Routing to ayush@portfolio...','> ...............................','> [SUCCESS] ✓ Message delivered. He\'ll respond soon.']
-const SOCIALS=[{cmd:'open github.com/ayush',href:'https://github.com'},{cmd:'connect linkedin.com/in/ayush',href:'https://linkedin.com'},{cmd:'sendmail hello@ayush.dev',href:'mailto:hello@ayush.dev'}]
+const SOCIALS=[{cmd:'open github.com/ayush',href:'https://github.com/NeoPulse-7'},{cmd:'connect linkedin.com/in/ayush',href:'https://linkedin.com'},{cmd:'sendmail hello@ayush.dev',href:'mailto:sinhaayushh10@gmail.com'}]
 
 export function Contact() {
   const ref    = useRef<HTMLElement>(null)
